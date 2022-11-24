@@ -8,17 +8,13 @@ Here is sample run of the Program
 
 BOB is Account Holder
 
-  User ID: 52561
-      PIN: 1111
+Login Information:
 
-****** Welcome to Bank of United States ******
+	User ID: 52561
+  
+        PIN: 1111
 
-Enter User ID: 52561
-Enter PIN: 111
-Incorrect user ID/pin combination. Please try again
-
-
-****** Welcome to Bank of United States ******
+******************** Welcome to Bank of United States ********************
 
 Enter User ID: 52561
 Enter PIN: 1111
@@ -26,8 +22,8 @@ Enter PIN: 1111
 
 BOB's accounts summary
 
-1) Savings   5605045   $0.00 
-2) Checking   3335042   $0.00 
+1) Savings   #5605045   $0.00 
+2) Checking   #3335042   $0.00 
 
 Your Options are:
 	1) Deposit Money
