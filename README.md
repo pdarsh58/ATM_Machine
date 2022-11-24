@@ -26,7 +26,7 @@ Login Information:
 
 Enter User ID: 52561
 
-Enter PIN: 1111
+    Enter PIN: 1111
 
 
 BOB's accounts summary
