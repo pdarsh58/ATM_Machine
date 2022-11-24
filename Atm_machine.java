@@ -96,16 +96,16 @@ public class Atm_machine {
 		switch (choice) {
 		
 		case 1:
-			ATM.depositFunds(your_user, scans);
+			Atm_machine.depositFunds(your_user, scans);
 			break;
 		case 2:
-			ATM.withdrawFunds(your_user, scans);
+			Atm_machine.withdrawFunds(your_user, scans);
 			break;
 		case 3:
-			ATM.transferFunds(your_user, scans);
+			Atm_machine.transferFunds(your_user, scans);
 			break;
 		case 4:
-			ATM.showTransHistory(your_user, scans);
+			Atm_machine.showTransHistory(your_user, scans);
 			break;
 		case 5:
 			scans.nextLine();
@@ -113,7 +113,7 @@ public class Atm_machine {
 		}
 		
 		if (choice != 5) {
-			ATM.userOptions(your_user, scans);
+			Atm_machine.userOptions(your_user, scans);
 		}
 		
 	}
