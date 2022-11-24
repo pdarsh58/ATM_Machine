@@ -47,9 +47,13 @@ BOB's accounts summary
 
 Your Options are:
 	1) Deposit Money
+	
 	2) Withdraw Money
+	
 	3) Transfer money
+	
 	4) Show Transcation history
+	
 	5) Quit
 
 Enter choice: 1
