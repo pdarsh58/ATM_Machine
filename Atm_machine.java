@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Atm_machine {
 	
