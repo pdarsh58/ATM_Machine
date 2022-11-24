@@ -31,6 +31,7 @@ Enter User ID: 52561
     Enter PIN: 1111
 
 
+
 BOB's accounts summary
 
 1) Savings =>          #5605045 =>          $0.00 
