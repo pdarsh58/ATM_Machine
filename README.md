@@ -3,6 +3,7 @@
 This Program works at a small scale by creating a Account Holder named Bob and its login information. Program will give you User ID and PIN. Then, you will get menu options 1) Deposit, 2) Withdraw, 3) Transfer, 4) Transcation history, and 5) Exit. 
 
 Here is sample run of the Program
+
 *******************************************************************************
 
 BOB is Account Holder
@@ -167,5 +168,5 @@ Your Options are:
 Enter choice: 5
 
 
-************* Thank You for choosing Bank of America!! ****************************** 
+****************  Thank You for choosing Bank of America!! ****************
 Program exit
