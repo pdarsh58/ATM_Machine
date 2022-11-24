@@ -1,6 +1,6 @@
 # ATM_Machine
 
-Program works at a small scale by creating a Account Holder with name Bob and its login information. Program will give you User ID and PIN. Then, you can use that and choose from this menu options:
+Program works at a small scale by creating a Account Holder with name Bob and its login information using Java. Program will give you User ID and PIN. Then, you can use that and choose from this menu options:
 
 1) Deposit
 2) Withdraw
