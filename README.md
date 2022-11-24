@@ -46,6 +46,7 @@ BOB's accounts summary
 2) Checking     3335042     $0.00 
 
 Your Options are:
+
 	1) Deposit Money
 	
 	2) Withdraw Money
@@ -95,6 +96,7 @@ BOB's accounts summary
 2) Checking   #3335042   $100.00 
 
 Your Options are:
+
 	1) Deposit Money
 	
 	2) Withdraw Money
@@ -121,6 +123,7 @@ BOB's accounts summary
 2) Checking   3335042   $600.00 
 
 Your Options are:
+
 	1) Deposit Money
 	
 	2) Withdraw Money
@@ -154,6 +157,7 @@ BOB's accounts summary
 2) Checking   3335042   $600.00 
 
 Your Options are:
+
 
 	1) Deposit Money
 
