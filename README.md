@@ -19,8 +19,10 @@ Login Information:
 	User ID: 52561
   
         PIN: 1111
+	
 
 ******************** Welcome to Bank of United States ********************
+
 
 Enter User ID: 52561
 Enter PIN: 1111
