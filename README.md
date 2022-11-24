@@ -50,13 +50,13 @@ Your Options are:
 	
 	5) Quit
 
-Enter choice: 1
+		Enter choice: 1
 
-	Enter type of Account(Savings or Checking)(1-2) to deposit to: 1
+		Enter type of Account(Savings or Checking)(1-2) to deposit to: 1
 
-	Enter the amount to deposit: $ 1000
+		Enter the amount to deposit: $ 1000
 
-	Enter a memo: Bonus
+		Enter a memo: Bonus
 
 
 BOB's accounts summary
@@ -77,13 +77,13 @@ Your Options are:
 	
 	5) Quit
 
-	Enter choice: 1
+		Enter choice: 1
 
-	Enter type of Account(Savings or Checking)(1-2) to deposit to: 2
+		Enter type of Account(Savings or Checking)(1-2) to deposit to: 2
 
-	Enter the amount to deposit: $ 100
+		Enter the amount to deposit: $ 100
 
-	Enter a memo: Gift
+		Enter a memo: Gift
 
 
 BOB's accounts summary
@@ -105,21 +105,21 @@ Your Options are:
 	5) Quit
 	
 
-	Enter choice: 2
+		Enter choice: 2
 
-	Enter type of Account(Savings or Checking)(1-2) to withdraw from: 1
+		Enter type of Account(Savings or Checking)(1-2) to withdraw from: 1
 
-	Enter the amount to withdraw (max $1000.00): $200
+		Enter the amount to withdraw (max $1000.00): $200
 
-	Enter a memo: Grocery
+		Enter a memo: Grocery
 
 
 
 BOB's accounts summary
 
-1) Savings =>   #5605045 =>  $800.00 
+	1) Savings =>   #5605045 =>  $800.00 
  
-2) Checking =>  #3335042 =>  $100.00 
+	2) Checking =>  #3335042 =>  $100.00 
 
 
 Your Options are:
@@ -137,13 +137,13 @@ Your Options are:
 
 
 
-	Enter choice: 3
+		Enter choice: 3
 
-	Enter type of Account(Savings or Checking)(1-2) to transfer from: 1
+		Enter type of Account(Savings or Checking)(1-2) to transfer from: 1
 
-	Enter type of Account(Savings or Checking)(1-2) to transfer to: 2
+		Enter type of Account(Savings or Checking)(1-2) to transfer to: 2
 
-	Enter the amount to transfer (max $800.00): $500
+		Enter the amount to transfer (max $800.00): $500
 
 
 BOB's accounts summary
@@ -167,9 +167,9 @@ Your Options are:
 	
 	
 
-	Enter choice: 4
+		Enter choice: 4
 
-	Enter type of Account(Savings or Checking)(1-2) whose transactions you want to see: 1
+		Enter type of Account(Savings or Checking)(1-2) whose transactions you want to see: 1
 	
 
 Transaction history for account 5605045
@@ -204,9 +204,9 @@ Your Options are:
 
 
 
-	Enter choice: 4
+		Enter choice: 4
 
-	Enter type of Account(Savings or Checking)(1-2)whose transactions you want to see: 2
+		Enter type of Account(Savings or Checking)(1-2)whose transactions you want to see: 2
 
 
 Transaction history for account 3335042
