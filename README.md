@@ -22,14 +22,20 @@ Enter PIN: 1111
 
 BOB's accounts summary
 
-1) Savings   #5605045   $0.00 
-2) Checking   #3335042   $0.00 
+1) Savings          #5605045          $0.00 
+
+2) Checking         #3335042          $0.00 
 
 Your Options are:
+
 	1) Deposit Money
+	
 	2) Withdraw Money
+	
 	3) Transfer money
+	
 	4) Show Transcation history
+	
 	5) Quit
 
 Enter choice: 1
