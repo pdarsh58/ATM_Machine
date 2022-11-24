@@ -42,8 +42,8 @@ Enter a memo: Bonus
 
 BOB's accounts summary
 
-1) Savings   5605045   $1000.00 
-2) Checking   3335042   $0.00 
+1) Savings      5605045     $1000.00 
+2) Checking     3335042     $0.00 
 
 Your Options are:
 	1) Deposit Money
@@ -62,8 +62,8 @@ Enter a memo: Gift
 
 BOB's accounts summary
 
-1) Savings   5605045   $1000.00 
-2) Checking   3335042   $100.00 
+1) Savings	#5605045	$1000.00 
+2) Checking	#3335042	$100.00 
 
 Your Options are:
 	1) Deposit Money
